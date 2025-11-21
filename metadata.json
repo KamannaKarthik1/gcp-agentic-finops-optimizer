@@ -1,0 +1,5 @@
+{
+  "name": "GCP Agentic Cost Optimizer",
+  "description": "An autonomous AI agent that analyzes Google Cloud environments to identify waste and recommend optimizations.",
+  "requestFramePermissions": []
+}
